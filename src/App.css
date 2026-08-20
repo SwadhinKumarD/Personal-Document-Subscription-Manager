@@ -1,0 +1,9 @@
+/* App-specific custom components if needed */
+.calendar-cell:hover {
+  background-color: var(--bg-tertiary) !important;
+}
+
+.card-hover-element:hover {
+  background-color: var(--bg-tertiary) !important;
+  transform: translateX(4px);
+}
